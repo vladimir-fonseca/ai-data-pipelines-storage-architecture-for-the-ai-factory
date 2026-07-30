@@ -1,0 +1,12 @@
+*.docx
+*.pptx
+*.key
+*.pages
+*.tmp
+*.bak
+*.swp
+~$*
+.DS_Store
+drafts/
+private/
+source/

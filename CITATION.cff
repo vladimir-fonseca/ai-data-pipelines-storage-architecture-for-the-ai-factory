@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Please cite this publication using the metadata below."
+title: "AI DATA PIPELINES: Storage Architecture for the AI Factory"
+type: report
+authors:
+  - family-names: "Fonseca"
+    given-names: "Vladimir"
+version: "1.0.0"
+date-released: "2026-07-30"
+repository-code: "https://github.com/vladimir-fonseca/ai-data-pipelines-storage-architecture-for-the-ai-factory"
+abstract: >-
+  An independent technical publication on AI data pipelines, storage-tier
+  architecture, multi-tenancy, tenant isolation, and storage infrastructure
+  for the AI Factory.
+keywords:
+  - AI data pipelines
+  - AI Factory
+  - storage architecture
+  - storage tiers
+  - multi-tenancy
+  - tenant isolation
+  - storage isolation
+  - object storage
+  - data lake
+  - context memory
+  - NVIDIA NCP
+  - AI infrastructure
+  - GPU infrastructure
+  - GPUDirect Storage
+  - RDMA
+  - checkpointing
+  - sovereign AI

@@ -1,0 +1,200 @@
+AI DATA PIPELINES
+Storage Architecture for the AI Factory
+
+PROPRIETARY PUBLICATION NOTICE
+
+Copyright © 2026 Vladimir Fonseca.
+All rights reserved.
+
+1. Ownership
+
+This publication, including its original written content, diagrams, figures,
+illustrations, tables, arrangement, and accompanying repository-authored
+materials, is an original copyrighted work owned by Vladimir Fonseca, except
+for third-party material expressly identified as belonging to another owner.
+
+No ownership is claimed in third-party trademarks, service marks, trade names,
+product names, standards, specifications, publicly documented interfaces,
+vendor technologies, or other third-party intellectual property referenced
+for technical identification or commentary.
+
+2. Limited Permission
+
+Subject to applicable law, permission is granted only to:
+
+a. Access, download, and read one authorized copy of the publication for
+   personal use or internal business evaluation;
+
+b. Retain that authorized copy on devices or systems under the reader's or
+   reader's organization's control solely for the use described above;
+
+c. Cite limited portions of the publication using customary academic or
+   professional citation practices, with appropriate attribution; and
+
+d. Share a hyperlink to the official GitHub repository, official release
+   page, or official PDF location.
+
+The permissions above are personal, limited, non-exclusive, and
+non-transferable.
+
+They do not include permission to distribute copies to other persons, publish
+the publication internally or externally, upload it to a shared repository,
+use it as course material, extract its contents, create derivative works, or
+use it for any commercial product or service.
+
+No other permission or license is granted, whether expressly, by implication,
+estoppel, exhaustion, or otherwise.
+
+3. Uses Requiring Prior Written Permission
+
+Except as permitted under applicable law, no part of this publication or
+repository may be reproduced, redistributed, republished, publicly displayed,
+translated, adapted, transformed, transmitted, or incorporated into a
+derivative work without the prior written permission of the copyright holder.
+
+Prior written permission is specifically required to:
+
+a. Republish or mirror the publication on another website, repository,
+   document-sharing service, internal portal, knowledge-management system,
+   learning-management system, or distribution platform;
+
+b. Redistribute copies of the publication, whether free of charge or for
+   commercial consideration;
+
+c. Modify, translate, abridge, annotate, remix, transform, summarize for
+   republication, or create derivative works from the publication;
+
+d. Extract, reproduce, or redistribute diagrams, figures, illustrations,
+   tables, screenshots, or substantial portions of the written content as
+   standalone materials;
+
+e. Incorporate the publication, or substantial portions of it, into another
+   report, book, course, presentation, conference material, commercial
+   offering, consulting deliverable, training package, dataset, knowledge
+   product, or publication;
+
+f. Use the publication or its contents to promote, market, endorse, certify,
+   or support a product, service, vendor, architecture, or commercial
+   offering;
+
+g. Remove, obscure, or alter copyright notices, author attribution,
+   provenance information, disclaimers, or rights notices; or
+
+h. Claim or imply authorship, ownership, sponsorship, certification,
+   endorsement, approval, or affiliation that does not exist.
+
+4. Automated Processing and Artificial Intelligence
+
+No express permission or license is granted to reproduce, scrape, extract,
+compile, ingest, redistribute, or use the publication, its diagrams, tables,
+or substantial portions of its content as:
+
+a. Training, fine-tuning, evaluation, or reinforcement-learning material for
+   a machine-learning or generative artificial-intelligence model;
+
+b. A machine-learning dataset, artificial-intelligence training corpus,
+   benchmark dataset, embedding corpus, or retrieval-augmented-generation
+   corpus;
+
+c. A commercial or externally accessible knowledge base; or
+
+d. A dataset or content collection offered, licensed, or made available to
+   third parties.
+
+No permission is granted to generate or distribute outputs that reproduce,
+closely imitate, reconstruct, or substitute for substantial portions of the
+publication.
+
+This section does not restrict ordinary search-engine indexing, transient
+browser caching, accessibility processing, security scanning, or uses
+independently permitted by applicable law.
+
+5. Attribution
+
+Permitted citations should identify, where reasonably possible:
+
+Vladimir Fonseca,
+AI DATA PIPELINES: Storage Architecture for the AI Factory,
+Version 1.0.0, 2026.
+
+Attribution must not suggest endorsement, sponsorship, approval,
+certification, partnership, or affiliation.
+
+Attribution does not expand the limited permissions granted in Section 2.
+
+6. Third-Party Rights
+
+References to third-party companies, products, platforms, architectures,
+standards, specifications, protocols, interfaces, and technologies are
+provided solely for factual identification, technical discussion,
+interoperability analysis, comparison, education, and commentary.
+
+All trademarks, service marks, trade names, logos, product names, standards,
+specifications, copyrighted materials, patents, and other third-party
+intellectual property remain the property of their respective owners.
+
+Nothing in this publication or repository grants any right or license under
+the copyrights, trademarks, patents, trade secrets, or other intellectual
+property rights of NVIDIA Corporation or any other third party.
+
+No ownership of, license to, endorsement by, or affiliation with any third
+party is claimed or implied.
+
+7. Independent Publication
+
+This publication is independently authored.
+
+It is not sponsored, commissioned, reviewed, approved, certified, or endorsed
+by NVIDIA Corporation, any other technology vendor, or any current or former
+employer of the author.
+
+No affiliation, partnership, agency, employment relationship, certification,
+or vendor approval should be inferred.
+
+8. No Warranty
+
+This publication is provided solely for informational, educational, and
+technical-discussion purposes and is provided “as is.”
+
+To the maximum extent permitted by applicable law, the author makes no
+warranties or representations, express or implied, regarding accuracy,
+completeness, currency, merchantability, fitness for a particular purpose,
+non-infringement, interoperability, or suitability for production use.
+
+Technical information, vendor capabilities, product specifications, and
+reference architectures may change after publication.
+
+Readers are responsible for independently validating all technical
+information before relying on or implementing it.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the author shall not be
+liable for any direct, indirect, incidental, consequential, special,
+exemplary, punitive, or other damages arising from or related to access to,
+use of, reliance on, implementation of, or inability to use this publication.
+
+10. Statutory Rights
+
+Nothing in this notice restricts fair use, fair dealing, quotation rights,
+accessibility rights, library or archival exceptions, or any other exception
+or limitation provided by applicable law.
+
+Whether a particular use qualifies for a statutory exception depends on the
+specific facts and applicable law. Fair use, for example, is determined
+case by case rather than by a fixed word or percentage allowance.
+
+11. Permissions
+
+Requests for reproduction, redistribution, republication, translation,
+commercial use, extraction of figures, derivative works, artificial-
+intelligence use, or other permissions must be submitted to the copyright
+holder through the official repository contact method.
+
+Any permission must be provided expressly in writing by the copyright holder.
+
+Silence, failure to respond, access to the repository, availability of the
+publication online, or prior use by another person does not constitute
+permission.
+
+All rights not expressly granted are reserved.

@@ -1,0 +1,35 @@
+NOTICE
+
+AI DATA PIPELINES
+Storage Architecture for the AI Factory
+
+Copyright © 2026 Vladimir Fonseca.
+All rights reserved.
+
+This repository contains an independently authored technical publication.
+
+The publication is based on publicly available information, independent
+analysis, and the author's professional experience. It is not sponsored,
+commissioned, reviewed, approved, certified, or endorsed by NVIDIA Corporation,
+any other technology vendor, or any current or former employer.
+
+References to third-party companies, products, platforms, architectures,
+standards, specifications, protocols, interfaces, and technologies are included
+solely for factual identification, technical discussion, interoperability
+analysis, comparison, education, and commentary.
+
+All trademarks, service marks, trade names, logos, product names, standards,
+specifications, copyrighted documentation, patents, and other third-party
+intellectual property remain the property of their respective owners.
+
+No ownership of, license to, or endorsement by any third party is claimed or
+implied.
+
+Unless expressly identified otherwise, the original prose, diagrams, figures,
+illustrations, tables, organization, and presentation of this publication were
+created by Vladimir Fonseca.
+
+The appearance of a vendor, product, or technology in the publication does not
+indicate participation in, approval of, or responsibility for the publication.
+
+See the LICENSE file for permitted uses and restrictions.
